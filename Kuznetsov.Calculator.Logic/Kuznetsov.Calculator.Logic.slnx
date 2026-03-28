@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Kuznetsov.Calculator.Tests/Kuznetsov.Calculator.Tests.csproj" Id="94016bc1-b5cc-49bb-8f47-426d0e3b525e" />
+  <Project Path="../Kuznetsov.Calculator.WPF/Kuznetsov.Calculator.WPF.csproj" />
+  <Project Path="Kuznetsov.Calculator.Logic.csproj" />
+</Solution>
